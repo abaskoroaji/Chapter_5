@@ -1,0 +1,454 @@
+.section-headline-1 {
+  /* background-image: url("img/main-bg.jpg"); */
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.headline-content {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  text-align: center;
+  transform: translateX(-50%) translateY(-50%);
+  width: 80%;
+}
+.content-title {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 83px;
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.content-description {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  margin-top: 40px;
+}
+.btn-playnow {
+  background: linear-gradient(194.68deg, #ffb548 11.27%, #f3af34 90.4%);
+  color: #1a1917;
+  padding: 10px 50px 10px 50px;
+  margin-top: 45px;
+  height: 60px;
+  width: 260px;
+  border-radius: 4px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+}
+.the-story-btn {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  text-align: justify;
+  transform: translateX(-50%) translateY(-50%);
+  width: 80%;
+}
+.the-story {
+  position: absolute;
+  left: 45%;
+  right: 45%;
+  top: 91.03%;
+  bottom: 6.4%;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 22px;
+  text-align: justify;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.panah-bawah {
+  position: absolute;
+  left: 48%;
+  top: 93.03%;
+  bottom: 3.4%;
+}
+.section-headline-2 {
+  /* background-image: url("img/the-games-bg.jpg"); */
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.container-2 {
+  margin: 8% 0% 0% 2%;
+  position: absolute;
+  color: white;
+}
+.c2-h3 {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+}
+.container-2-2 {
+  position: absolute;
+  display: flex;
+}
+.c2-h1 {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  text-transform: uppercase;
+  width: 400px;
+}
+.container-2-2-img {
+  position: relative;
+  /* background-image: url("img/rockpaperstrategy-1600.jpg"); */
+  background-size: cover;
+  height: 350px;
+  width: 700px;
+}
+.panah-kiri {
+  position: absolute;
+  left: -40px;
+  top: 150px;
+}
+.panah-kanan {
+  position: absolute;
+  right: -40px;
+  top: 150px;
+}
+.bulat-1 {
+  position: absolute;
+  top: 320px;
+  left: 220px;
+}
+.bulat-2 {
+  position: absolute;
+  top: 320px;
+  left: 290px;
+}
+.bulat-3 {
+  position: absolute;
+  top: 320px;
+  left: 360px;
+}
+.bulat-4 {
+  position: absolute;
+  top: 320px;
+  left: 430px;
+}
+.bulat-5 {
+  position: absolute;
+  top: 320px;
+  left: 500px;
+}
+.section-headline-3 {
+  /* background-image: url("img/features.jpg"); */
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.container-3 {
+  margin: 8% 0% 0% 55%;
+  position: absolute;
+}
+.c3-content-title {
+  position: absolute;
+}
+.c3-h3 {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  color: white;
+}
+.c3-h1 {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  text-transform: uppercase;
+  color: white;
+}
+.c3-content-1 {
+  position: relative;
+  top: 150px;
+}
+.c3-content-1-bulat1 {
+  position: absolute;
+}
+.c3-content-1-text1 {
+  position: absolute;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+  color: #ffb548;
+  margin-left: 50px;
+  vertical-align: 50%;
+}
+.c3-content-2 {
+  color: white;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: justify;
+  margin-left: 55px;
+  position: relative;
+  top: 185px;
+  width: 300px;
+}
+.c3-content-3 {
+  position: relative;
+  top: 235px;
+}
+.c3-content-3-bulat1 {
+  position: absolute;
+}
+.c3-content-3-text1 {
+  position: absolute;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+  color: #ffb548;
+  margin-left: 50px;
+}
+.c3-content-4 {
+  position: relative;
+  top: 305px;
+}
+.c3-content-4-bulat1 {
+  position: absolute;
+}
+.c3-content-4-text1 {
+  position: absolute;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+  color: #ffb548;
+  margin-left: 50px;
+}
+.section-headline-4 {
+  /* background-image: url("img/requirements.png"); */
+  position: relative;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.c4-title {
+  position: absolute;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  padding-top: 40px;
+  padding-left: 40%;
+}
+.c4-h1 {
+  position: absolute;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #ffffff;
+  width: 500px;
+  margin: 90px 0px 0px 53px;
+}
+.c4-os {
+  position: absolute;
+  border: 1px solid #979797;
+  width: 250px;
+  height: 80px;
+  margin: 220px 0px 0px 53px;
+  padding: 0px 0px 0px 5px;
+}
+.c4-os-title {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  text-transform: uppercase;
+}
+.c4-os-desc {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+.c4-pros {
+  position: absolute;
+  border: 1px solid #979797;
+  width: 250px;
+  height: 80px;
+  margin: 220px 0px 0px 303px;
+  padding: 0px 0px 0px 5px;
+}
+.c4-pros-title {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  text-transform: uppercase;
+}
+.c4-pros-desc {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+.c4-mem {
+  position: absolute;
+  border: 1px solid #979797;
+  width: 250px;
+  height: 80px;
+  margin: 300px 0px 0px 53px;
+  padding: 0px 0px 0px 5px;
+}
+.c4-mem-title {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffb548;
+}
+.c4-mem-desc {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+.c4-sto {
+  position: absolute;
+  border: 1px solid #979797;
+  width: 250px;
+  height: 80px;
+  margin: 300px 0px 0px 303px;
+  padding: 0px 0px 0px 5px;
+}
+.c4-sto-title {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffb548;
+}
+.c4-sto-desc {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+.c4-grap {
+  position: absolute;
+  border: 1px solid #979797;
+  width: 500px;
+  height: 100px;
+  margin: 380px 0px 0px 53px;
+  padding: 10px 0px 10px 5px;
+}
+.c4-grap-title {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  text-transform: uppercase;
+}
+.c4-grap-desc {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+.section-headline-5 {
+  background-color: black;
+  position: relative;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.c5-title {
+  position: absolute;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: 170px 0px 0px 53px;
+}
+.c5-desc {
+  position: absolute;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #ffffff;
+  margin: 285px 0px 0px 53px;
+  width: 340px;
+}
+.c5-btn {
+  position: absolute;
+  background: linear-gradient(194.68deg, #ffb548 11.27%, #f3af34 90.4%);
+  border-radius: 4px;
+  width: 260px;
+  height: 60px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  text-transform: lowercase;
+  color: #1a1917;
+  padding-top: 18px;
+  margin: 385px 0px 0px 53px;
+}
+.c5-quote-1 {
+  padding: 6px 0px 0px 700px;
+}
+.c5-quote-2 {
+  padding: 8px 0px 0px 560px;
+}
+.c5-quote-3 {
+  padding: 8px 0px 0px 700px;
+}

@@ -1,0 +1,110 @@
+body {
+  background-color: #9c835f;
+}
+
+a {
+    color: #724c21;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+.back-button,
+.logo-utama,
+.rps-text {
+  display: inline;
+  margin: 5px 5px 5px 5px;
+}
+
+.back-button {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #724c21;
+}
+
+.logo-utama {
+  width: 60px;
+  height: 60px;
+}
+
+.rps-text {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 49px;
+  color: #f9b23d;
+}
+
+.player .col-12,
+.com .col-12 {
+  margin-bottom: 40px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: 75px;
+  height: 75px;
+}
+
+.vs-text {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 124px;
+  line-height: 196px;
+  letter-spacing: 0.1em;
+  color: #bd0000;
+}
+
+.btn_refresh {
+  height: 70px;
+  width: 70x;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn_refresh img {
+  height: 100%;
+  width: auto;
+}
+
+.highlight {
+  padding: 22px 45px;
+  background: #c4c4c4;
+  border-radius: 20px;
+}
+
+.result-win {
+  height: 165px;
+  width: 270px;
+  background-color: #4c9654;
+  border-radius: 10px;
+  transform: rotate(-30deg);
+  color: white;
+  font-size: 38px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.result-draw {
+  height: 165px;
+  width: 270px;
+  background-color: #035b0c;
+  border-radius: 10px;
+  transform: rotate(-30deg);
+  color: white;
+  font-size: 38px;
+  text-align: center;
+  padding-top: 45px;
+}
